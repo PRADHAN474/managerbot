@@ -1,7 +1,7 @@
 {
-      "name": "Fallen Robot",
+      "name": "🇴 🇽 𝐘 𓃭 🇷 𝐎𝐁𝐎𝐓",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://te.legra.ph/file/72e135da30a1a349f2844.jpg",
+      "logo": "https://graph.org/file/79b2347e9834e02510895.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/AnonymousX1025/FallenRobot",
+   "repository": "https://github.com/PRADHAN474/managerbot",
    "stack": "heroku-22",
    "addons": [
       {
@@ -37,7 +37,7 @@
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
          "required": true,
-         "value": ""
+         "value": "KZOKAC9RSH0YORF9"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
@@ -61,22 +61,22 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1356469075"
+         "value": "5059737154"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": ""
+         "value": "https://graph.org/file/79b2347e9834e02510895.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
-         "required": true,
-         "value": "DevilsHeavenMF"
+         "required": false,
+         "value": "BWANDARLOK"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": true,
-         "value": ""
+         "value": "B9Y6LCIU7C29"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
@@ -84,4 +84,4 @@
          "value": ""
       }
    }
-}
+   }￼Enter
