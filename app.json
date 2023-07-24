@@ -60,7 +60,7 @@
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "required": true,
+         "required": false,
          "value": "5059737154"
       },
       "START_IMG": {
