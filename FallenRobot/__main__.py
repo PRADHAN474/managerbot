@@ -89,15 +89,15 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
+        InlineKeyboardButton(text="𝙷𝚎𝚕𝙿 & 𝙲𝚘𝚖𝚖𝚊𝚗𝙳𝚂", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="❄ ᴀʙᴏᴜᴛ ❄", callback_data="fallen_"),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="❄ 𝙰𝚋𝚘𝚞𝚃 ❄", callback_data="fallen_"),
+        InlineKeyboardButton(text="💫 𝚂𝚞𝚙𝚙𝚘𝚛𝚃 💫", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="☁️ sᴏᴜʀᴄᴇ ☁️", callback_data="help_back"),
+        InlineKeyboardButton(text="🥀 𝙳𝚎𝚟𝚎𝚕𝚘𝙿𝚎𝚁 🥀", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="☁️ 𝙼𝚞𝚂𝚒𝙲 ☁️", url=f"https://t.me/OXYGENMUSIC47_BOT"),
     ],
 ]
 
